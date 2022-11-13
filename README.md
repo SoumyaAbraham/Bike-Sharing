@@ -60,7 +60,11 @@ Here are some of the factors we're going to analyze:
     Location of each stop station.  
     A size and color heirarchy to see which stop stations are most popular and which one see least customers.  
  
-*Once worksheets have been created, we will create multiple dashboards to give the data some structure. The dashboards will then be added to the Story so the data flows.*
+#### Step 3:
+Once worksheets have been created, we will create multiple dashboards to give the data some structure. 
+
+#### Step 4: 
+The dashboards will then be added to the Story so the data flows.
 
 ### RESULTS:
 
