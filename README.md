@@ -89,6 +89,7 @@ From this line graph, we can see:
   
 - A *5 hour* usage was the most popular time of usage by customers in August.
 - By hovering over the graph, you can see the number of hours and the number of bikes that were taken out for that period of time.
+- Furthermore, you can filter out data by hour of the day
     
 3. Checkout Times by Gender:
   
@@ -96,7 +97,7 @@ From this line graph, we can see:
   
 This is a very informative dashboard.
   
-- We see the Checkout Times by Gender, showing that there is a much *higher male clientele* than women. You will also filter the data based on the hours of the day for further analysis.
+- We see the Checkout Times by Gender, showing that there is a much *higher male clientele* than women. You will also filter the data based on the hour of the day for further analysis.
 - This can be further seen in the pie chart of a breakdown of customers by Gender. 
 You see only a quarter of the total customer base is female.
 With a 10% unknown customer base, that shows 65% of the users being male.
@@ -115,13 +116,14 @@ What we see here is:
     
 5. Trips by Gender per Day
   
-![gender per day](https://github.com/SoumyaAbraham/Bike-Sharing/blob/main/Screenshots/5.%20Trips%20by%20Gender%20per%20Day.png)
+![gender per day](https://github.com/SoumyaAbraham/Bike-Sharing/blob/main/Screenshots/5.%20Trip%20by%20Gender%20per%20Day.png)
   
 With this heatmap, we can see the busiest hours per day, further divided by Gender.
 - Once again, we can see that *8 AM* is the busiest hour in the mornings, with a *much higher number of male users*.
 - The busiest hours of the afternoon is between *5 PM and 6 PM.*
 - This map shows that *Thursdays* are the busiest day of the week.
 - You can also *filter the heatmap by gender*.
+- You will also see Weekends are the busier days seen in the unknown category. A reason could be non-subscribed customers enjoying their weekends and choosing not to include their gender into the database. 
 
     
 6. Trips by Gender per Customer Type
